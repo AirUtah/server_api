@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dab895d6_cd3dc9bd",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1006442
+      },
+      "writtenOn": "2015-10-08T06:36:37Z",
+      "side": 1,
+      "message": "This is great Zach!",
+      "range": {
+        "startLine": 6,
+        "startChar": 0,
+        "endLine": 6,
+        "endChar": 149
+      },
+      "revId": "295bde04fe887fa0ec61963761f7de6f4ac425b1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
