@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baada198_e7e46cae",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1006463
+      },
+      "writtenOn": "2015-10-09T18:01:58Z",
+      "side": 1,
+      "message": "That\u0027s me!",
+      "range": {
+        "startLine": 10,
+        "startChar": 26,
+        "endLine": 10,
+        "endChar": 38
+      },
+      "revId": "8d1c7a2cb3eb488d4a8144d06328d8259710f179",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
