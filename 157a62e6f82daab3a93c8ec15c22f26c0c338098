@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baada198_67e85c7d",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1006442
+      },
+      "writtenOn": "2015-10-09T18:01:56Z",
+      "side": 1,
+      "message": "Please remove this section. It is unnecessary.",
+      "range": {
+        "startLine": 8,
+        "startChar": 0,
+        "endLine": 8,
+        "endChar": 12
+      },
+      "revId": "157a62e6f82daab3a93c8ec15c22f26c0c338098",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
